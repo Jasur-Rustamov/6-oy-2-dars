@@ -1,4 +1,4 @@
-import Address from "../Adress";
+import Address from "../adress";
 import Car from "../Car";
 import "./index.css";
 
@@ -8,7 +8,9 @@ function User(props) {
     <div className="user">
       <p>
         <b>Ismi Familiyasi: </b>
-        <h2>{user.firstName} {user.lastName}</h2>
+        <h2>
+          {user.firstName} {user.lastName}
+        </h2>
       </p>
       <p>
         <b>Telefon: </b>

@@ -1,3 +1,8 @@
 .adress p {
   padding-left: 15px;
 }
+.adress{
+  background: orange;
+  margin-right: 14px;
+  border-radius: 15px;
+}
