@@ -1,5 +1,5 @@
 import Address from "../adress";
-import Car from "../Car";
+import Car from "../car";
 import "./index.css";
 
 function User(props) {
